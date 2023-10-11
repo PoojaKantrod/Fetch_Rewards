@@ -20,4 +20,4 @@ This Android app fetches data from an external source and displays it based on c
 ## Clone this repository to implement:
 
    ```bash
-   git clone 
+   git clone https://github.com/PoojaKantrod/Fetch_Rewards.git
