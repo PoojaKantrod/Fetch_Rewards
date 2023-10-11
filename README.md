@@ -2,7 +2,7 @@
 
 This Android app fetches data from an external source and displays it based on certain conditions.
 
-## Conditions
+## Problem Statement
 
 1. Display all the items grouped by "listId."
 2. Sort the results first by "listId," and then by "name" when displaying.
